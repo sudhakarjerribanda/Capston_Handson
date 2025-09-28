@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-09-28T00:51:10",
+  "python": "3.12.11",
+  "platform": "Linux-6.6.97+-x86_64-with-glibc2.35",
+  "numpy": "2.0.2",
+  "torch": "2.8.0+cu126",
+  "torch_cuda_available": false,
+  "device": "CPU",
+  "pillow": "11.3.0",
+  "sentence_transformers": "5.1.0",
+  "transformers": "4.56.1"
+}

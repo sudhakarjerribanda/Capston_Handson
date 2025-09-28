@@ -1,0 +1,4 @@
+query,text@3,images@3,n_text,n_images
+Summarize PHI sanitization best practices,"['doc1256', 'doc1009', 'doc764']","['img_BDI dialog (1)-1 (1)', 'img_BDI dialog (1)-1', 'img_comparison']",3,3
+Find figure showing lab trend,"['img_ablation1 (1)', 'img_ablation1', 'doc1467']","['img_unnamed (2)', 'img_unnamed (2) (1)', 'img_ablation2']",3,3
+Which section discusses model validation?,"['doc1012', 'doc1259', 'doc1258']","['img_comparison', 'img_comparison (1)', 'img_ablation4 (1)']",3,3
