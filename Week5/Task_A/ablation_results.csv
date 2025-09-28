@@ -1,0 +1,21 @@
+idx,pipeline,question,hit_gold,latency_sec,avg_ctx_chars,n_returned
+1,baseline_dense,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0292,453.5,6
+1,dense_plus_rerank,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0395,453.5,6
+1,dense_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.181,460.8,4
+1,rrf_plus_rerank_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.1763,463.0,6
+2,baseline_dense,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0132,453.5,6
+2,dense_plus_rerank,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0374,453.5,6
+2,dense_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0453,460.8,4
+2,rrf_plus_rerank_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.1564,463.0,6
+3,baseline_dense,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0144,453.5,6
+3,dense_plus_rerank,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.037,453.5,6
+3,dense_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.045,460.8,4
+3,rrf_plus_rerank_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.1563,463.0,6
+4,baseline_dense,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0178,453.5,6
+4,dense_plus_rerank,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0345,453.5,6
+4,dense_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0427,460.8,4
+4,rrf_plus_rerank_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.1463,463.0,6
+5,baseline_dense,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0136,453.5,6
+5,dense_plus_rerank,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0327,453.5,6
+5,dense_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.0413,460.8,4
+5,rrf_plus_rerank_plus_compress,Summarize a key idea from 3_NeurIPS-2024-can-large-language-model-agents-simulate-human-trust-behavior-Paper-Conference (1).pdf.,True,0.151,463.0,6
