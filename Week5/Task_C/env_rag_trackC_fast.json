@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-09-28T01:13:57",
+  "python": "3.12.11",
+  "platform": "Linux-6.6.97+-x86_64-with-glibc2.35",
+  "cuda": true,
+  "device": "Tesla T4",
+  "sentence_transformers": "5.1.1",
+  "chromadb": "1.1.0"
+}
