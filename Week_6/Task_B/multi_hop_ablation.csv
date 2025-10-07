@@ -1,0 +1,3 @@
+Variant,Accuracy,Hops
+Baseline RAG,0.83,1
+Multi-Hop RAG,0.94,2

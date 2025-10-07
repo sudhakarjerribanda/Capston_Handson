@@ -1,0 +1,7 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "llm": "models/gemini-2.5-flash",
+    "graph_nodes": 3409,
+    "graph_edges": 5799,
+    "retriever_k": 3
+}
