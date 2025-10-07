@@ -1,0 +1,7 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "llm": "gemini-1.5-pro",
+    "graph_nodes": 2,
+    "graph_edges": 1,
+    "retriever_k": 3
+}
