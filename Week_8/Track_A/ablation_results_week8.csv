@@ -1,0 +1,2 @@
+Variant,Latency (s),Accuracy,Visualization Quality,Speech Accuracy,Notes
+With_Speech,2.301,0.82,N/A,0.93,"Backend=https://unrepresentable-cleanliest-delmar.ngrok-free.dev, STT=faster-whisper-small, TTS=gTTS"

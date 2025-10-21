@@ -1,0 +1,8 @@
+{
+  "track": "A",
+  "llm_backend": "local_ngrok_backend",
+  "backend_url": "https://unrepresentable-cleanliest-delmar.ngrok-free.dev",
+  "audio_stt": "faster-whisper-small",
+  "tts": "gTTS",
+  "created_at": "2025-10-21T03:08:32"
+}
