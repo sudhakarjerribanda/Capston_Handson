@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "requests"
+  ],
+  "track": "Week8-Track C",
+  "run_id": "20251021_043040_591109"
+}
